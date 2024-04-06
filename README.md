@@ -7,3 +7,5 @@ chgrp group/folde/r
 chmod 770/folder/
 chmod u+t/folder
 ssh-keygen
+/usr/bin/passwd
+/usr/sbin/useradd
